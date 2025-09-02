@@ -129,6 +129,52 @@ export default function PrivacyPage() {
           </section>
 
           <section className="space-y-2">
+            <h2 className="text-xl font-semibold">India-Specific Privacy Notice</h2>
+            <p>
+              If you are located in India, you acknowledge this policy is an electronic record under applicable law.
+              Personal data may be stored and processed in India. Certain sensitive personal data (for example, payment
+              instrument information or biometric identifiers) is collected only with consent and handled per applicable
+              law. You may withdraw consent by contacting us; withdrawal may affect access to some Services.
+            </p>
+            <p>
+              Security: We implement reasonable security practices to protect personal data. Internet transmission,
+              however, cannot be guaranteed as completely secure; please keep your credentials and API keys
+              confidential.
+            </p>
+            <p>
+              Data Retention and Deletion: We retain personal data no longer than necessary for the purposes collected
+              or as required by law. You may request account deletion; in some cases (e.g., pending disputes or legal
+              requirements) deletion may be delayed or denied. We may retain anonymized data for analytics.
+            </p>
+          </section>
+
+          <section className="space-y-2">
+            <h2 className="text-xl font-semibold">Grievance Officer (India)</h2>
+            <div className="text-sm">
+              <p>Designation: Grievance Officer</p>
+              <p>Address: Saiyyadpura, Guna, India</p>
+              <p>
+                Email:{" "}
+                <a href="mailto:zyrosukuna@gmail.com" className="underline underline-offset-4">
+                  zyrosukuna@gmail.com
+                </a>
+              </p>
+              <p>
+                Telegram:{" "}
+                <a
+                  href="https://t.me/MrZyro"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline underline-offset-4"
+                >
+                  @MrZyro
+                </a>
+              </p>
+              <p>Hours: Monday – Friday, 9:00–18:00 (IST)</p>
+            </div>
+          </section>
+
+          <section className="space-y-2">
             <h2 className="text-xl font-semibold">Contact Us</h2>
             <p>
               If you have questions or concerns, reach out at{" "}
