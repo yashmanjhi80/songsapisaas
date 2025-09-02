@@ -1,7 +1,7 @@
 import { type NextRequest, NextResponse } from "next/server"
 import { getUserFromAuthHeader } from "@/lib/get-user-from-auth-header"
 
-const EXTERNAL_BASE = "https://test.zyronetworks.shop"
+const EXTERNAL_BASE = "https://api.zyronetworks.shop"
 
 export const runtime = "nodejs"
 export const dynamic = "force-dynamic"

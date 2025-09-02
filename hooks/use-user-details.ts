@@ -51,7 +51,7 @@ function encodeBase64Utf8(input: string) {
   }
 }
 
-const EXTERNAL_BASE = "http://test.zyronetworks.shop"
+const EXTERNAL_BASE = "https://api.zyronetworks.shop"
 const fetcher = async (_key: string, token: string | null, gmail: string | null) => {
   const headers: Record<string, string> = { "Content-Type": "application/json" }
   if (token) headers["Authorization"] = `Bearer ${token}`
