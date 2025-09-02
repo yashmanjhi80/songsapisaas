@@ -31,9 +31,8 @@ export default function ContactPage() {
           </Card>
 
           <div className="text-sm text-slate-600">
-            <div>Business email: hello@songsapi.dev</div>
-            <div>Twitter: @songsapi</div>
-            <div>Telegram: t.me/songsapi</div>
+            <div>Business email: zyrosukuna@gmail.com</div>
+            <div>Telegram: t.me/@mrzyro</div>
           </div>
         </div>
       </main>
